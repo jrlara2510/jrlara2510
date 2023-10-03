@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jesus Lara
-- 👀 I’m interested in electronics, java, python  data science, and web applications.
-- 🌱 I’m currently learning data cleaning and ML models
+- 👀 I’m interested in java & python proyects, data science, Web applications, Cloud Compute and DevOps.
+- 🌱 I’m currently learning Data cleaning and ML models
 - 💞️ I’m looking to collaborate on java or python proyects 
 - 📫 How to reach me jrlara2510@gmail.com or LinkedIn as jesuslara25
 
